@@ -23,11 +23,15 @@ export default function Board() {
     }))
   }
 
+  //toda lista precisa de uma key aí passa o proprio titulo
+  //vai fornecer um valor para esse contexto  
   return (
     <BoardContext.Provider value={{ lists, move }}>
-      <Container>
+
+      <Container> 
         {lists.map((list, index) => <List key={list.title} index={index} data={list} />)}
       </Container>
+      
     </BoardContext.Provider>
   );
 }
