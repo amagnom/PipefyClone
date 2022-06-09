@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/PipefyClone/static/js/main.c44b87f4.chunk.js",
+    "main.js.map": "/PipefyClone/static/js/main.c44b87f4.chunk.js.map",
+    "runtime-main.js": "/PipefyClone/static/js/runtime-main.7be436ca.js",
+    "runtime-main.js.map": "/PipefyClone/static/js/runtime-main.7be436ca.js.map",
+    "static/js/2.fbcf08a5.chunk.js": "/PipefyClone/static/js/2.fbcf08a5.chunk.js",
+    "static/js/2.fbcf08a5.chunk.js.map": "/PipefyClone/static/js/2.fbcf08a5.chunk.js.map",
+    "index.html": "/PipefyClone/index.html",
+    "static/js/2.fbcf08a5.chunk.js.LICENSE.txt": "/PipefyClone/static/js/2.fbcf08a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7be436ca.js",
+    "static/js/2.fbcf08a5.chunk.js",
+    "static/js/main.c44b87f4.chunk.js"
+  ]
+}
