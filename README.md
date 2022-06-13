@@ -1,6 +1,6 @@
 ## Pipefy Clone
 
-### Pipefy Clone Page:
+### Live Demo:
 https://arildomagno.github.io/PipefyClone/
 
 
